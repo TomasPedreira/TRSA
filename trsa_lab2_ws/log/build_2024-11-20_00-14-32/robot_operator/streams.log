@@ -1,0 +1,26 @@
+[0.429s] Invoking command in '/home/tomas/trsa_lab2_ws/src/robot_operator': PYTHONPATH=/home/tomas/trsa_lab2_ws/build/robot_operator/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/tomas/trsa_lab2_ws/install/robot_operator/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/robot_operator build --build-base /home/tomas/trsa_lab2_ws/build/robot_operator/build install --record /home/tomas/trsa_lab2_ws/build/robot_operator/install.log --single-version-externally-managed install_data
+[0.584s] running egg_info
+[0.585s] writing ../../build/robot_operator/robot_operator.egg-info/PKG-INFO
+[0.585s] writing dependency_links to ../../build/robot_operator/robot_operator.egg-info/dependency_links.txt
+[0.586s] writing entry points to ../../build/robot_operator/robot_operator.egg-info/entry_points.txt
+[0.587s] writing requirements to ../../build/robot_operator/robot_operator.egg-info/requires.txt
+[0.588s] writing top-level names to ../../build/robot_operator/robot_operator.egg-info/top_level.txt
+[0.591s] reading manifest file '../../build/robot_operator/robot_operator.egg-info/SOURCES.txt'
+[0.592s] writing manifest file '../../build/robot_operator/robot_operator.egg-info/SOURCES.txt'
+[0.592s] running build
+[0.592s] running build_py
+[0.592s] copying robot_operator/image_recon.py -> /home/tomas/trsa_lab2_ws/build/robot_operator/build/lib/robot_operator
+[0.593s] running install
+[0.593s] running install_lib
+[0.594s] copying /home/tomas/trsa_lab2_ws/build/robot_operator/build/lib/robot_operator/image_recon.py -> /home/tomas/trsa_lab2_ws/install/robot_operator/lib/python3.10/site-packages/robot_operator
+[0.595s] byte-compiling /home/tomas/trsa_lab2_ws/install/robot_operator/lib/python3.10/site-packages/robot_operator/image_recon.py to image_recon.cpython-310.pyc
+[0.595s] running install_data
+[0.596s] running install_egg_info
+[0.598s] removing '/home/tomas/trsa_lab2_ws/install/robot_operator/lib/python3.10/site-packages/robot_operator-0.0.0-py3.10.egg-info' (and everything under it)
+[0.598s] Copying ../../build/robot_operator/robot_operator.egg-info to /home/tomas/trsa_lab2_ws/install/robot_operator/lib/python3.10/site-packages/robot_operator-0.0.0-py3.10.egg-info
+[0.599s] running install_scripts
+[0.615s] Installing goal_pub_server script to /home/tomas/trsa_lab2_ws/install/robot_operator/lib/robot_operator
+[0.615s] Installing image_recon script to /home/tomas/trsa_lab2_ws/install/robot_operator/lib/robot_operator
+[0.618s] Installing record_video script to /home/tomas/trsa_lab2_ws/install/robot_operator/lib/robot_operator
+[0.619s] writing list of installed files to '/home/tomas/trsa_lab2_ws/build/robot_operator/install.log'
+[0.638s] Invoked command in '/home/tomas/trsa_lab2_ws/src/robot_operator' returned '0': PYTHONPATH=/home/tomas/trsa_lab2_ws/build/robot_operator/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/tomas/trsa_lab2_ws/install/robot_operator/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/robot_operator build --build-base /home/tomas/trsa_lab2_ws/build/robot_operator/build install --record /home/tomas/trsa_lab2_ws/build/robot_operator/install.log --single-version-externally-managed install_data

@@ -1,0 +1,6 @@
+{
+  "package_name": "trsa_interface",
+  "non_idl_tuples": [
+    "/home/tomas/trsa_lab2_ws/src/trsa_interface:srv/PubGoal.srv"
+  ]
+}

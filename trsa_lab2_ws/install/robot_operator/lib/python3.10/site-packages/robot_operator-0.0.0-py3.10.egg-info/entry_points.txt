@@ -1,0 +1,5 @@
+[console_scripts]
+goal_pub_server = robot_operator.goal_pub_server:main
+image_recon = robot_operator.image_recon:main
+record_video = robot_operator.record_video:main
+

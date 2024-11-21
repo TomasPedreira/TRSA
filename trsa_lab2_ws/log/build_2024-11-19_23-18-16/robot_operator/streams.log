@@ -1,0 +1,46 @@
+[0.376s] Invoking command in '/home/tomas/trsa_lab2_ws/src/robot_operator': PYTHONPATH=/home/tomas/trsa_lab2_ws/build/robot_operator/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/tomas/trsa_lab2_ws/install/robot_operator/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/robot_operator build --build-base /home/tomas/trsa_lab2_ws/build/robot_operator/build install --record /home/tomas/trsa_lab2_ws/build/robot_operator/install.log --single-version-externally-managed install_data
+[0.531s] running egg_info
+[0.531s] creating ../../build/robot_operator/robot_operator.egg-info
+[0.531s] writing ../../build/robot_operator/robot_operator.egg-info/PKG-INFO
+[0.531s] writing dependency_links to ../../build/robot_operator/robot_operator.egg-info/dependency_links.txt
+[0.531s] writing entry points to ../../build/robot_operator/robot_operator.egg-info/entry_points.txt
+[0.531s] writing requirements to ../../build/robot_operator/robot_operator.egg-info/requires.txt
+[0.531s] writing top-level names to ../../build/robot_operator/robot_operator.egg-info/top_level.txt
+[0.532s] writing manifest file '../../build/robot_operator/robot_operator.egg-info/SOURCES.txt'
+[0.533s] reading manifest file '../../build/robot_operator/robot_operator.egg-info/SOURCES.txt'
+[0.533s] writing manifest file '../../build/robot_operator/robot_operator.egg-info/SOURCES.txt'
+[0.538s] running build
+[0.538s] running build_py
+[0.538s] creating /home/tomas/trsa_lab2_ws/build/robot_operator/build
+[0.538s] creating /home/tomas/trsa_lab2_ws/build/robot_operator/build/lib
+[0.538s] creating /home/tomas/trsa_lab2_ws/build/robot_operator/build/lib/robot_operator
+[0.538s] copying robot_operator/image_recon.py -> /home/tomas/trsa_lab2_ws/build/robot_operator/build/lib/robot_operator
+[0.538s] copying robot_operator/record_video.py -> /home/tomas/trsa_lab2_ws/build/robot_operator/build/lib/robot_operator
+[0.538s] copying robot_operator/goal_pub_server.py -> /home/tomas/trsa_lab2_ws/build/robot_operator/build/lib/robot_operator
+[0.538s] copying robot_operator/__init__.py -> /home/tomas/trsa_lab2_ws/build/robot_operator/build/lib/robot_operator
+[0.538s] running install
+[0.538s] running install_lib
+[0.539s] creating /home/tomas/trsa_lab2_ws/install/robot_operator/lib/python3.10/site-packages/robot_operator
+[0.539s] copying /home/tomas/trsa_lab2_ws/build/robot_operator/build/lib/robot_operator/image_recon.py -> /home/tomas/trsa_lab2_ws/install/robot_operator/lib/python3.10/site-packages/robot_operator
+[0.539s] copying /home/tomas/trsa_lab2_ws/build/robot_operator/build/lib/robot_operator/record_video.py -> /home/tomas/trsa_lab2_ws/install/robot_operator/lib/python3.10/site-packages/robot_operator
+[0.539s] copying /home/tomas/trsa_lab2_ws/build/robot_operator/build/lib/robot_operator/goal_pub_server.py -> /home/tomas/trsa_lab2_ws/install/robot_operator/lib/python3.10/site-packages/robot_operator
+[0.539s] copying /home/tomas/trsa_lab2_ws/build/robot_operator/build/lib/robot_operator/__init__.py -> /home/tomas/trsa_lab2_ws/install/robot_operator/lib/python3.10/site-packages/robot_operator
+[0.539s] byte-compiling /home/tomas/trsa_lab2_ws/install/robot_operator/lib/python3.10/site-packages/robot_operator/image_recon.py to image_recon.cpython-310.pyc
+[0.539s] byte-compiling /home/tomas/trsa_lab2_ws/install/robot_operator/lib/python3.10/site-packages/robot_operator/record_video.py to record_video.cpython-310.pyc
+[0.540s] byte-compiling /home/tomas/trsa_lab2_ws/install/robot_operator/lib/python3.10/site-packages/robot_operator/goal_pub_server.py to goal_pub_server.cpython-310.pyc
+[0.540s] byte-compiling /home/tomas/trsa_lab2_ws/install/robot_operator/lib/python3.10/site-packages/robot_operator/__init__.py to __init__.cpython-310.pyc
+[0.540s] running install_data
+[0.540s] creating /home/tomas/trsa_lab2_ws/install/robot_operator/share/ament_index
+[0.540s] creating /home/tomas/trsa_lab2_ws/install/robot_operator/share/ament_index/resource_index
+[0.540s] creating /home/tomas/trsa_lab2_ws/install/robot_operator/share/ament_index/resource_index/packages
+[0.540s] copying resource/robot_operator -> /home/tomas/trsa_lab2_ws/install/robot_operator/share/ament_index/resource_index/packages
+[0.540s] copying package.xml -> /home/tomas/trsa_lab2_ws/install/robot_operator/share/robot_operator
+[0.540s] copying launch/op_launch.py -> /home/tomas/trsa_lab2_ws/install/robot_operator/share/robot_operator
+[0.540s] running install_egg_info
+[0.541s] Copying ../../build/robot_operator/robot_operator.egg-info to /home/tomas/trsa_lab2_ws/install/robot_operator/lib/python3.10/site-packages/robot_operator-0.0.0-py3.10.egg-info
+[0.542s] running install_scripts
+[0.554s] Installing goal_pub_server script to /home/tomas/trsa_lab2_ws/install/robot_operator/lib/robot_operator
+[0.554s] Installing image_recon script to /home/tomas/trsa_lab2_ws/install/robot_operator/lib/robot_operator
+[0.554s] Installing record_video script to /home/tomas/trsa_lab2_ws/install/robot_operator/lib/robot_operator
+[0.554s] writing list of installed files to '/home/tomas/trsa_lab2_ws/build/robot_operator/install.log'
+[0.569s] Invoked command in '/home/tomas/trsa_lab2_ws/src/robot_operator' returned '0': PYTHONPATH=/home/tomas/trsa_lab2_ws/build/robot_operator/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/tomas/trsa_lab2_ws/install/robot_operator/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/robot_operator build --build-base /home/tomas/trsa_lab2_ws/build/robot_operator/build install --record /home/tomas/trsa_lab2_ws/build/robot_operator/install.log --single-version-externally-managed install_data

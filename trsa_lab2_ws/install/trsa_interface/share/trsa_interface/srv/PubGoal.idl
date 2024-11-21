@@ -1,0 +1,19 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from trsa_interface/srv/PubGoal.srv
+// generated code does not contain a copyright notice
+
+
+module trsa_interface {
+  module srv {
+    struct PubGoal_Request {
+      double x;
+
+      double y;
+
+      double yaw;
+    };
+    struct PubGoal_Response {
+      boolean result;
+    };
+  };
+};

@@ -1,0 +1,24 @@
+running egg_info
+writing ../../build/robot_operator/robot_operator.egg-info/PKG-INFO
+writing dependency_links to ../../build/robot_operator/robot_operator.egg-info/dependency_links.txt
+writing entry points to ../../build/robot_operator/robot_operator.egg-info/entry_points.txt
+writing requirements to ../../build/robot_operator/robot_operator.egg-info/requires.txt
+writing top-level names to ../../build/robot_operator/robot_operator.egg-info/top_level.txt
+reading manifest file '../../build/robot_operator/robot_operator.egg-info/SOURCES.txt'
+writing manifest file '../../build/robot_operator/robot_operator.egg-info/SOURCES.txt'
+running build
+running build_py
+copying robot_operator/image_recon.py -> /home/tomas/trsa_lab2_ws/build/robot_operator/build/lib/robot_operator
+running install
+running install_lib
+copying /home/tomas/trsa_lab2_ws/build/robot_operator/build/lib/robot_operator/image_recon.py -> /home/tomas/trsa_lab2_ws/install/robot_operator/lib/python3.10/site-packages/robot_operator
+byte-compiling /home/tomas/trsa_lab2_ws/install/robot_operator/lib/python3.10/site-packages/robot_operator/image_recon.py to image_recon.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/tomas/trsa_lab2_ws/install/robot_operator/lib/python3.10/site-packages/robot_operator-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/robot_operator/robot_operator.egg-info to /home/tomas/trsa_lab2_ws/install/robot_operator/lib/python3.10/site-packages/robot_operator-0.0.0-py3.10.egg-info
+running install_scripts
+Installing goal_pub_server script to /home/tomas/trsa_lab2_ws/install/robot_operator/lib/robot_operator
+Installing image_recon script to /home/tomas/trsa_lab2_ws/install/robot_operator/lib/robot_operator
+Installing record_video script to /home/tomas/trsa_lab2_ws/install/robot_operator/lib/robot_operator
+writing list of installed files to '/home/tomas/trsa_lab2_ws/build/robot_operator/install.log'

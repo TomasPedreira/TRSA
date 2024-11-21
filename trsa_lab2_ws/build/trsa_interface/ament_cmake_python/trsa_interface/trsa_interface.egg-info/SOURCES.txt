@@ -1,0 +1,8 @@
+setup.py
+trsa_interface/__init__.py
+trsa_interface.egg-info/PKG-INFO
+trsa_interface.egg-info/SOURCES.txt
+trsa_interface.egg-info/dependency_links.txt
+trsa_interface.egg-info/top_level.txt
+trsa_interface/srv/__init__.py
+trsa_interface/srv/_pub_goal.py
